@@ -8,7 +8,7 @@
 
 # 🚀 About Me
 
-I’m **Hazem Mohamed Alashry**, an **Architect, BIM Developer, and Revit API Engineer** specializing in **BIM automation, Revit plugin development, and data-driven engineering workflows for the AEC industry**.
+I’m **Hazem Mohamed **, an **Architect, BIM Developer, and Revit API Engineer** specializing in **BIM automation, Revit plugin development, and data-driven engineering workflows for the AEC industry**.
 
 Graduated in **2025**, I work at the intersection of:
 
