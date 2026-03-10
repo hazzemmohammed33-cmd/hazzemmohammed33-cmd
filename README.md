@@ -1,4 +1,4 @@
-[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=1000&lines=Hi+there+👋+I'm+Hazem+Mohamed+Alashry;Architect+%7C+BIM+Developer+%7C+Revit+API+Engineer;Building+automation+tools+for+the+AEC+industry" alt="Typing SVG" />](#)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Hazem+Mohamed+Alashry;Architect+|+BIM+Developer+|+Revit+API+Engineer;Developing+BIM+automation+tools+for+the+AEC+industry)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hazzemmohammed33&label=Profile%20views&color=0A84FF&style=flat"/>
@@ -8,7 +8,7 @@
 
 # 🚀 About Me
 
-I’m **Hazem Mohamed **, an **Architect and BIM Developer** specializing in **BIM automation, Revit API development, and engineering workflow optimization for the AEC industry**.
+I’m **Hazem Mohamed Alashry**, an **Architect and BIM Developer** specializing in **BIM automation, Revit API development, and engineering workflow optimization for the AEC industry**.
 
 Graduated in **2025**, my work focuses on bridging the gap between **architecture, BIM workflows, and software development** by building tools that improve productivity, model quality, and project delivery.
 
@@ -48,12 +48,12 @@ Graduated in **2025**, my work focuses on bridging the gap between **architectur
 
 # 🔬 Engineering Interests
 
-- BIM Automation
-- Revit Plugin Development
-- Computational Design
-- Engineering Productivity Tools
-- Digital Construction Workflows
-- AI for AEC Industry
+- BIM Automation  
+- Revit Plugin Development  
+- Computational Design  
+- Engineering Productivity Tools  
+- Digital Construction Workflows  
+- AI for AEC Industry  
 
 ---
 
@@ -63,10 +63,10 @@ Projects will be added here as they are published.
 
 Current focus areas include:
 
-- **Revit API plugins**
-- **BIM automation tools**
-- **Engineering workflow utilities**
-- **WPF desktop applications**
+- Revit API plugins  
+- BIM automation tools  
+- Engineering workflow utilities  
+- WPF desktop applications  
 
 ---
 
@@ -97,3 +97,5 @@ Current focus areas include:
 # ⚡ Philosophy
 
 BIM is not only about modeling buildings — it is about engineering intelligent digital systems for the built environment.
+
+I don’t just use BIM tools — I build them.
